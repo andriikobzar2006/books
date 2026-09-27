@@ -1,0 +1,1 @@
+import {Link} from 'react-router-dom';export default function NotFound(){return <div className="p-24 text-center"><h1 className="text-8xl font-black text-amber-500">404</h1><p className="mt-4 text-xl">Сторінку не знайдено</p><Link to="/" className="mt-6 inline-block font-bold">На головну →</Link></div>}

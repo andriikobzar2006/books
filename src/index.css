@@ -1,0 +1,2 @@
+@import "tailwindcss";
+:root{font-family:Inter,system-ui,sans-serif;color:#1f2937;background:#f8f7f4}html{scroll-behavior:smooth}body{margin:0;min-width:320px}.glass{background:rgba(255,255,255,.82);backdrop-filter:blur(16px)}.line-clamp-2{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.book-shadow{box-shadow:12px 12px 25px rgba(51,35,20,.16),-2px 0 4px rgba(0,0,0,.08)}
